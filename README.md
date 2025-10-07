@@ -1,1 +1,1 @@
-Handwrite complete syllabus on Core Java.♨️
+Handwrite complete Core Java Notes. ♨️
